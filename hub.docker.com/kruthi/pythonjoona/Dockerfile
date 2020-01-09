@@ -1,5 +1,5 @@
 FROM python:3.6-slim
-LABEL maintainer="joona.hook@visma.com"
+LABEL maintainer="XXXXXXXX"
 
 COPY ./dist/salescaseprediction /home/site/wwwroot
 
